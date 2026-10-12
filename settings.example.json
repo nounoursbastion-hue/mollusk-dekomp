@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "protected_drives": ["C:"],
+  "output": "results",
+  "ilspy": "tools/ilspy/ilspycmd.exe",
+  "il2cpp": "tools/il2cpp/Il2CppDumper.exe",
+  "assetripper": "tools/assetripper/AssetRipper.GUI.Free.exe",
+  "repak": "tools/repak/repak.exe",
+  "cue4parse": "tools/cue4parse/cue4parse.exe",
+  "ghidra": "tools/ghidra",
+  "java": "tools/java",
+  "emotionengine": "tools/emotionengine",
+  "dotnet": "tools/dotnet"
+}

@@ -1,0 +1,24 @@
+MolluskDekomP — English / Français / Español / Deutsch / Italiano
+
+EN: Read README_EN.md. Install Python 3.12+ with Tk, then run MolluskDékomp.cmd.
+Choose Language in the top right. Configure external tools in settings.json.
+This ZIP does not include Python, game files or third-party decompilers.
+
+FR : Lis README_FR.md. Installe Python 3.12+ avec Tk, puis lance MolluskDékomp.cmd.
+Choisis Langue en haut à droite. Configure les outils externes dans settings.json.
+Ce ZIP ne contient ni Python, ni fichiers de jeux, ni décompilateurs tiers.
+
+ES: Lee README_EN.md. Instala Python 3.12+ con Tk y abre MolluskDékomp.cmd.
+Elige Idioma arriba a la derecha. Configura las herramientas en settings.json.
+El ZIP no incluye Python, juegos ni descompiladores de terceros.
+
+DE: README_EN.md lesen. Python 3.12+ mit Tk installieren, MolluskDékomp.cmd starten.
+Sprache oben rechts wählen. Externe Werkzeuge in settings.json konfigurieren.
+Das ZIP enthält weder Python noch Spieldateien oder externe Decompiler.
+
+IT: Leggi README_EN.md. Installa Python 3.12+ con Tk e avvia MolluskDékomp.cmd.
+Scegli Lingua in alto a destra. Configura gli strumenti in settings.json.
+Lo ZIP non include Python, file di giochi o decompilatori di terze parti.
+
+Use a drive with plenty of free space for large exports.
+Extraction/conversion depends on supported formats; 100% recovery is not guaranteed.
